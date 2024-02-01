@@ -8,7 +8,7 @@ USER root
 EXPOSE 8080
 
 # Set a password for authentication
-ENV PASSWORD="PrivatePass123#"
+ENV PASSWORD="1"
 
 # Copy any additional extensions or settings you want to include
 # For example, if you have a list of extensions in a file called extensions.txt:
