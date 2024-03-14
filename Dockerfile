@@ -1,5 +1,5 @@
 # Use the official Visual Studio Code Server image
-FROM codercom/code-server:20.04
+FROM codercom/code-server:lastest
 
 # Set the user as root with the custom name
 USER root
